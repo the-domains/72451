@@ -1,0 +1,28 @@
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.17628510668873787
+  lightness: 0.6364542604424059
+  saturation: 0.13547683716751635
+  rhythmicContrast: 0.6546552807558328
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: 微至科技
+layout_spectrum: 0.46322054346092045
+typography_spectrum: 0.8057840594556183
+content: []
+title: 微至科技
+description: 云印台
+github: true
+logo: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/56081bb6-7cfd-438d-a80e-0865c4d9a6c8.jpg
